@@ -48,7 +48,7 @@ You can animate `Nodes`, `Links`, `Values`, `Views` and `Annotations`. You can b
   <summary>Detailed description of settings</summary>
 
   <!-- Bulk Build part -->
-  <details, style="margin-left: 20px; padding-left: 10pt;">
+  <details style="margin-left: 20px; padding-left: 10pt;">
   <summary>Bulk Build</summary>
   <ul>
     <li>Item 1</li>
@@ -58,7 +58,7 @@ You can animate `Nodes`, `Links`, `Values`, `Views` and `Annotations`. You can b
   </details>
 
   <!-- Manual Build part -->
-  <details, style="margin-left: 20px; padding-left: 10pt;">
+  <details style="margin-left: 20px; padding-left: 10pt;">
   <summary>Manual Build</summary>
   <ul>
     <li>Item 1</li>
@@ -68,7 +68,7 @@ You can animate `Nodes`, `Links`, `Values`, `Views` and `Annotations`. You can b
   </details>
 
   <!-- Annotate part -->
-  <details, style="margin-left: 20px; padding-left: 10pt;">
+  <details style="margin-left: 20px; padding-left: 10pt;">
   <summary>Annotate</summary>
   <ul>
     <li>Item 1</li>
