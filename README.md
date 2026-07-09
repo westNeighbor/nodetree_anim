@@ -27,7 +27,7 @@ open the `Nodetree Anim` panel in the node worksapce to build the wanted animati
 
 You can animate `Nodes`, `Links`, `Values`, `Views` and `Annotations`. You can build the animations in `Bulk` for 
 `Nodes`, `Links` and `Views` or one by one in `Manual` for `Nodes`, `Links` and `Values`. 
-Annotation animation in its own category.
+`Annotation` animation in its own category.
 1. Bulk Build
     - The options above the list window are global controls, their value will control all items in the list.
         - The `Anim Start Frame` is an exceptional one, it only affects the first item's start value.
@@ -43,6 +43,34 @@ Annotation animation in its own category.
     - A writing symbol can be added for writing effect animation.
     - Morph animation hasn't implemented yet.
     - You can `Restore Annotation` and start over your animation builds.
+
+<details>
+  <summary>Detailed description of settings</summary>
+  <summary><p>Bulk Build</p></summary>
+  <details>
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+  </details>
+  <summary><p>Manual Build</p></summary>
+  <details>
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+  </details>
+  <summary><p>Annotate</p></summary>
+  <details>
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+  </details>
+</details>
 
 Once the animation added, some controls will show up under their category, the controls are lively updating.
 
