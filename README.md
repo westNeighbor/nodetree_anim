@@ -46,24 +46,24 @@ You can animate `Nodes`, `Links`, `Values`, `Views` and `Annotations`. You can b
 
 <details>
   <summary>Detailed description of settings</summary>
+  <details>
   <summary><p>Bulk Build</p></summary>
-  <details>
   <ul>
     <li>Item 1</li>
     <li>Item 2</li>
     <li>Item 3</li>
   </ul>
   </details>
+  <details>
   <summary><p>Manual Build</p></summary>
-  <details>
   <ul>
     <li>Item 1</li>
     <li>Item 2</li>
     <li>Item 3</li>
   </ul>
   </details>
-  <summary><p>Annotate</p></summary>
   <details>
+  <summary><p>Annotate</p></summary>
   <ul>
     <li>Item 1</li>
     <li>Item 2</li>
