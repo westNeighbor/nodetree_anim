@@ -44,7 +44,7 @@ You can animate `Nodes`, `Links`, `Values`, `Views` and `Annotations`. You can b
     - Morph animation hasn't implemented yet.
     - You can `Restore Annotation` and start over your animation builds.
 
-<details>
+<details style="margin-left: 20px; padding-left: 10pt;">
   <summary>Detailed description of settings</summary>
 
   <!-- Bulk Build part -->
