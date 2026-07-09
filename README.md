@@ -23,7 +23,7 @@ open the `Nodetree Anim` panel in the node worksapce to build the wanted animati
 
 | Node Anim Buildup | Link Anim Buildup | Value Anim Buildup | View Anim Buildup | Annotation Anim Buildup |
 |---------|---------|---------|---------|---------|
-| ![Node](resources/node_anim.png) | ![Link](resources/link_anim.png) | ![Value](resources/value_anim.png) | ![View](resources/view_anim.png) | ![Annotation](resources/Annotation_anim.png) |
+| ![Node](resources/node_anim.png) | ![Link](resources/link_anim.png) | ![Value](resources/value_anim.png) | ![View](resources/view_anim.png) | ![Annotation](resources/annotation_anim.png) |
 
 You can animate `Nodes`, `Links`, `Values`, `Views` and `Annotations`. You can build the animations in `Bulk` for 
 `Nodes`, `Links` and `Views` or one by one in `Manual` for `Nodes`, `Links` and `Values`. 
