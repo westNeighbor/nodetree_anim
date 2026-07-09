@@ -47,7 +47,7 @@ You can animate `Nodes`, `Links`, `Values`, `Views` and `Annotations`. You can b
 <details>
   <summary>Detailed description of settings</summary>
   <details>
-  <summary><p>Bulk Build</p></summary>
+  <summary>Bulk Build</summary>
   <ul>
     <li>Item 1</li>
     <li>Item 2</li>
@@ -55,7 +55,7 @@ You can animate `Nodes`, `Links`, `Values`, `Views` and `Annotations`. You can b
   </ul>
   </details>
   <details>
-  <summary><p>Manual Build</p></summary>
+  <summary>Manual Build</summary>
   <ul>
     <li>Item 1</li>
     <li>Item 2</li>
@@ -63,7 +63,7 @@ You can animate `Nodes`, `Links`, `Values`, `Views` and `Annotations`. You can b
   </ul>
   </details>
   <details>
-  <summary><p>Annotate</p></summary>
+  <summary>Annotate</summary>
   <ul>
     <li>Item 1</li>
     <li>Item 2</li>
