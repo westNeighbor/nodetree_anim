@@ -133,3 +133,4 @@ Once the animation added, some controls will show up under their category, the c
 
 ## Tutorials
 Check the detailed tutorial
+[![Watch the demo](https://img.youtube.com/vi/wiJ1QH2bybU/maxresdefault.jpg)](https://www.youtube.com/watch?v=wiJ1QH2bybU)
