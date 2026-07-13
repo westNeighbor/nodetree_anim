@@ -10,6 +10,8 @@ create complex animation for your node tree explainary tutorials.
 
 ![demo](resources/anim_demo.gif)
 
+If you like the project, please give me a star! ⭐
+
 ## Features
 - Supporting all node tree types, including **shader nodes**, **geometry nodes**, **compositor nodes**, **texture nodes**.
 - Support for creating animation for **nodes**, **links**, **values**, **views** and even **annotations**.
