@@ -22,7 +22,9 @@ jobs:
             -x ".git/*" \
                ".github/*" \
                ".DS_Store" \
-               "__MACOSX/*"
+               "__MACOSX/*" \
+               "release_notes/*" \
+               "resources/*" \
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
