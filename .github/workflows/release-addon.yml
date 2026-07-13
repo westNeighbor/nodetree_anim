@@ -29,3 +29,4 @@ jobs:
         with:
           files: nodetree_anim-${{ github.ref_name }}.zip
           generate_release_notes: true
+          body_path: release_notes/${{ github.ref_name }}.md
